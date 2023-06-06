@@ -1,4 +1,4 @@
- ## [Check if it is positive or negative number](https://prepinsta.com/cpp-program/cpp-program-to-check-whether-a-number-is-positive-or-negative/)
+  [Check if it is positive or negative number](https://prepinsta.com/cpp-program/cpp-program-to-check-whether-a-number-is-positive-or-negative/)
 
  ```Brute Force```
 
